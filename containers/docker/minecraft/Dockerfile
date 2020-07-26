@@ -1,1 +1,5 @@
-#Dockerfile v1.1
+#Dockerfile v1.2
+#
+#
+#----------------------
+# CAMBIOS
